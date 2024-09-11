@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeff Bezos Inc. - Fortnite Frenzy</title>
+    <style>
+        body {
+            background-color: hotpink;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+        .section {
+            padding: 50px 20px;
+            border-bottom: 5px solid white;
+        }
+        .toilet {
+            font-size: 50px;
+            margin: 20px 0;
+        }
+        h1, h2, h3 {
+            margin: 10px 0;
+        }
+        .btn {
+            background-color: white;
+            color: hotpink;
+            border: 2px solid white;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .btn:hover {
+            background-color: hotpink;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Welcome Section -->
+        <div class="section" id="welcome">
+            <h1>Welcome to Jeff Bezos Inc.</h1>
+            <div class="toilet">🚽🚽🚽</div>
+            <p>Where business meets toilets, and Fortnite dances are mandatory!</p>
+            <button class="btn">Join the Toilet Revolution!</button>
+        </div>
+
+        <!-- About Jeff Bezos Section -->
+        <div class="section" id="about-jeff">
+            <h2>About Jeff Bezos</h2>
+            <div class="toilet">🚽</div>
+            <p>Jeff Bezos is more than a businessman; he's a cosmic entity with a passion for e-commerce, space, and perhaps, Fortnite. At Jeff Bezos Inc., we believe in the power of toilets and galaxies.</p>
+        </div>
+
+        <!-- Fortnite Section -->
+        <div class="section" id="fortnite">
+            <h2>Fortnite Frenzy at Jeff Bezos Inc.</h2>
+            <div class="toilet">🚽🚽</div>
+            <p>Did you know Jeff Bezos Inc. has its own Fortnite squad? Whether it's flossing through space or launching toilet paper rockets, we are redefining what it means to play Fortnite... Bezos style!</p>
+            <button class="btn">Join the Squad!</button>
+        </div>
+
+        <!-- Toilet Tribute Section -->
+        <div class="section" id="toilet-tribute">
+            <h2>The Great Toilet Tribute</h2>
+            <div class="toilet">🚽🚽🚽🚽</div>
+            <p>At Jeff Bezos Inc., we pay homage to toilets, the unsung heroes of the world. From executive toilets to gaming toilets, we’ve got them all. Hot pink is the new white!</p>
+        </div>
+
+        <!-- Contact Section -->
+        <div class="section" id="contact">
+            <h2>Contact Jeff Bezos Inc.</h2>
+            <div class="toilet">🚽</div>
+            <p>Wanna chat about toilets or Fortnite? Reach out to us at jeffbezos@toiletfortnite.com!</p>
+        </div>
+    </div>
+</body>
+</html>
